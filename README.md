@@ -1,23 +1,31 @@
 ## Detection and Classification of High-Risk Personnel Behavior Using  YOLO
 
 <div align="center">
-  <img src="https://github.com/Hamed-Aghapanah/GUI-of-Dermoscpy-image/blob/main/GUI%20Dermatology.gif" width="600"/>
+  <img src="Picture1.png" width="600"/>
   <div>&nbsp;</div>
   <div align="center">
-    <b><font size="5">Hamed Aghapanah </font></b>
+    <b><font size="5"> </font></b>
     <sup>
-      <a href="https://HamedAghapanah.com">
+      <a href="https:// ">
         <i><font size="4">HOT</font></i>
       </a>
     </sup>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <b><font size="5">HamedAghapanah platform</font></b>
+    <b><font size="5">  platform</font></b>
     <sup>
       <a href="https://HamedAghapanah.com">
         <i><font size="4">TRY IT OUT</font></i>
       </a>
     </sup>
   </div>
+
+  ## Try 1
+
+<img src="1_0.gif" width="600"/>
+
+## Try 2
+
+<img src="3.gif" width="600"/>
 
    
 <p align="center">
