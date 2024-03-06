@@ -19,11 +19,11 @@
     </sup>
   </div>
 
-  ## Try 1
+  ##  Schmatic of basic GUI version 1.0.0
 
 <img src="1_0.gif" width="600"/>
 
-## Try 2
+## Schmatic of improved GUI  version 2.0.0
 
 <img src="3.gif" width="600"/>
 
